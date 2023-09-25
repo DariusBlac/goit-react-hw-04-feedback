@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 25px;
+}
+
+.button {
+  width: 80px;
+  height: 40px;
+  background-color: #f8f080;
+  border-radius: 8px;
+}
+
+.button:hover {
+  scale: 1.2;
+}
